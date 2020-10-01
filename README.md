@@ -2,6 +2,8 @@
 
 `code to parse BMD101 ECG/EKG Chip via UART`
 
+![image](ECG Wave 60bpm.gif)
+
 ## Parsed Data
 
 - [x] ECG Raw ADC Val
