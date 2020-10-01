@@ -8,7 +8,7 @@ code to parse BMD101 ECG/EKG Chip via UART
 
 - [x] ECG Raw ADC Val
 - [x] HeartRate
-- [x] LeadOff detection.
+- [x] LeadOff detection
 
 ## Files
 
