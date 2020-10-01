@@ -2,7 +2,7 @@
 
 `code to parse BMD101 ECG/EKG Chip via UART`
 
-![image](ECG Wave 60bpm.gif)
+![image](https://github.com/kw81634dr/BMD101-plotter/blob/master/ECG%20Wave%2060bpm.gif)
 
 ## Parsed Data
 
